@@ -42,3 +42,7 @@ https://www.qnap.com/en/product/series/smb
 [TVS-672XT](https://www.qnap.com/en/product/tvs-672xt)
 
 [TVS-675](https://www.qnap.com/en/product/tvs-675)
+
+这俩太贵了吧
+
+还是用新的2.5Gbps的吧
