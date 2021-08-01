@@ -25,6 +25,14 @@ https://www.dt-stor.com/yingpanbaike/350.html
 
 铁威马
 
+[F4-422](https://www.terra-master.com/cn/products/smallmedium-businesses-nas/f4-422.html)
+
+Intel 四核CPU 双千兆网口 4GB内存 10Gb 高速4核网络存储
+
+￥ 4,099.00
+
+
+
 [F4-221](https://www.terra-master.com/cn/products/homesoho-nas/f4-221.html) ￥ 2,899.00
 
 
